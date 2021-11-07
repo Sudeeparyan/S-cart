@@ -1,0 +1,51 @@
+#browser{
+    width: 800px;
+    height: 30px;
+    margin-top: 10px;
+}
+#cart{
+    margin-left: 1350px;
+    margin-top: -50px;
+}
+.subdrop{
+    font-family: bold;    
+    margin-left:10px;
+    position:absolute;    
+}
+.Deals{
+    margin-top:55px;
+}
+.component{
+    width:200px;
+    height:200px;
+    float:left;
+    margin-top:10px;
+    margin-left: 50px;    
+}
+.component > img{
+    width:200px;
+    height:200px;
+}
+.top{
+    font-family: bold;
+    margin-top:200px;    
+    margin-left:10px;
+    position: absolute;
+}
+.TopCategories{
+    margin-top:55px;
+}
+.Topcomponent{
+    width:200px;
+    height:200px;
+    float:left;
+    margin-top:60px;
+    margin-left: 50px;    
+}
+.Topcomponent > img{
+    width:200px;
+    height:200px;
+}
+.carousel-inner{
+    margin-top:-25px;
+}
