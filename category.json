@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "category":"project kits"
+    },
+    {
+        "id":2,
+        "category":"s-cart pay"
+    },
+    {
+        "id":3,
+        "category":"Grocery"
+    },
+    {
+        "id":4,
+        "category":"Fashion"
+    },
+    {
+        "id":5,
+        "category":"computers and acccessories"
+    },
+    {
+        "id":6,
+        "category":"mobile"
+    },
+    {
+        "id":7,
+        "category":"electronics"
+    },
+    {
+        "id":8,
+        "category":"home appliances"
+    },
+    
+    {
+        "id":9,
+        "category":"kitchen appliances"
+    },
+    {
+        "id":10,
+        "category":"Beauty toys and games"
+    }
+    
+]
