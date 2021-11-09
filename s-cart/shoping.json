@@ -1,0 +1,984 @@
+[
+    "project kits",
+    "s-cart pay",
+
+    
+    "grocceries",
+        {
+            "id":31,
+            "name":"gold blended oil pouch",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.3",
+            "price":"756",
+            "image":"http://",
+            "Pack":"4*1L",
+            "Company":"Saffola"
+    
+        },
+        {
+            "id":32,
+            "name":"Natural almonds",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.3",
+            "price":"206",
+            "image":"http://",
+            "Pack":"200g",
+            "Company":"Happilo"
+    
+        },
+        {
+            "id":33,
+            "name":"original germ protection soap",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.5",
+            "price":"28,999",
+            "image":"http://",
+            "Pack":"4*125g",
+            "Company":"Dettol"
+    
+        },
+        {
+            "id":34,
+            "name":"Almond drop hair oil",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.3",
+            "price":"265",
+            "image":"http://",
+            "Pack":"500g",
+            "Company":"Bajaj"
+    
+        },
+        {
+            "id":35,
+            "name":"regular foam",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.5",
+            "price":"172",
+            "image":"http://",
+            "Pack":"418g",
+            "Company":"Gillette"
+    
+        },
+        {
+            "id":36,
+            "name":"power active mosquito vapor",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.4",
+            "price":"354",
+            "image":"http://",
+            "Pack":"6*45mL",
+            "Company":"Good knight"
+    
+        },
+        {
+            "id":37,
+            "name":"rostaa Healthy mix",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"3.8",
+            "price":"481",
+            "image":"http://",
+            "Pack":"340g",
+            "Company":"Rostaa"
+    
+        },
+        {
+            "id":38,
+            "name":"Afghani Anjeer",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.2",
+            "price":"799",
+            "image":"http://",
+            "Pack":"1kg",
+            "Company":"greenfinity"
+    
+        },
+        {
+            "id":39,
+            "name":"Hamilton Deodrant",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.4",
+            "price":"283",
+            "image":"http://",
+            "Pack":"2*400mL",
+            "Company":"Denver"
+    
+        },
+        {
+            "id":40,
+            "name":"disinfectant spray",
+            "category":"grocceries",
+            "category_id":"3",
+            "rating":"4.3",
+            "price":"143",
+            "image":"http://",
+            "Pack":"173mL",
+            "Company":"Savlon"
+    
+        },
+        "fashion",
+        {
+            "id":41,
+            "name":"full sleeve jacket",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"3.8",
+            "price":"1,049",
+            "image":"http://",
+            "color":"red",
+            "Company":"Wrogn"
+    
+        },
+        {
+            "id":42,
+            "name":"full sleeve men sweatshirt",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"3.9",
+            "price":"1,089",
+            "image":"http://",
+            "color":"white",
+            "Company":"USPA"
+    
+        },
+        {
+            "id":43,
+            "name":"Jaipur kurti",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.2",
+            "price":"1,459",
+            "image":"http://",
+            "color":"maroon",
+            "Company":"Biba"
+    
+        },
+        {
+            "id":44,
+            "name":"printed round neck men T-shirt",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.4",
+            "price":"647",
+            "image":"http://",
+            "color":"light green",
+            "Company":"Nike"
+    
+        },
+        {
+            "id":45,
+            "name":"men casual fit shirt",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.5",
+            "price":"1,089",
+            "image":"http://",
+            "color":"Yellow",
+            "Company":"Scotch and Soda"
+    
+        },
+        {
+            "id":46,
+            "name":"bayaband ankle strap sandals ",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.4",
+            "price":"2,295",
+            "image":"http://",
+            "color":"Brown",
+            "size":"10UK",
+            "Company":"Crocs"
+    
+        },
+        {
+            "id":47,
+            "name":"Thog strap Flipflops",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.5",
+            "price":"2,095",
+            "image":"http://",
+            "size":"11uk",
+            "color":"Yellow",
+            "Company":"Woodland"
+    
+        },
+        {
+            "id":48,
+            "name":"Torn jeans for men",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.3",
+            "price":"1,445",
+            "image":"http://",
+            "color":"light blue",
+            "Company":"USPA"
+    
+        },
+        {
+            "id":49,
+            "name":"Sneakers for men",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.5",
+            "price":"3,225",
+            "image":"http://",
+            "color":"red",
+            "Company":"Nike"
+    
+        },
+        {
+            "id":50,
+            "name":"men styled loafers",
+            "category":"fashion",
+            "category_id":"4",
+            "rating":"4.1",
+            "price":"2,199",
+            "image":"http://",
+            "color":"gray",
+            "Company":"Adidas"
+    
+        },
+        "Computer accessories",
+    {
+        "id":51,
+        "name":"HP Pavilion ",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.9",
+        "price":"90,000",
+        "image":"http://",
+        "color":"black",
+        "Company":"hp"
+
+    },
+    {
+        "id":52,
+        "name":"OnePlus Smart Band",
+        "category":"Computer accessoriesh",
+        "category_id":"5",
+        "rating":"4.3",
+        "price":"4000",
+        "image":"http://",
+        "color":"black",
+        "Company":"oneplus"
+
+    },
+    {
+        "id":53,
+        "name":"Zebronics Zeb-MAX PRO V2 Premium ",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"3,719",
+        "image":"http://",
+        "color":"black",
+        "Company":"Zebronics"
+
+    },
+    {
+        "id":54,
+        "name":"HP Z3700 Wireless Mouse (Black) ",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"1000",
+        "image":"http://",
+        "color":"black",
+        "Company":"Wireless Mouse"
+
+    },
+    {
+        "id":55,
+        "name":"Seagate Expansion 1.5 ",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"4200",
+        "image":"http://",
+        "color":"black",
+        "Company":"Seagate"
+
+    },
+    {
+        "id":56,
+        "name":"SanDisk Ultra UHS 1TB ",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"15999",
+        "image":"http://",
+        "color":"black",
+        "Company":"SanDisk"
+
+    },
+    {
+        "id":57,
+        "name":"TP-Link Archer C6",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"3,719",
+        "image":"http://",
+        "color":"black",
+        "Company":"TP-Link"
+
+    },
+    {
+        "id":58,
+        "name":"Airtel AMF-311WW Data Card (Black), 4g Hotspot Support with 2300 Mah Battery",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"2000",
+        "image":"http://",
+        "color":"black",
+        "Company":"Airtel"
+
+    },
+    {
+        "id":59,
+        "name":"HP All-in-One 24-df0215in 23.8-Inch FHD with Alexa Built-in ",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"42,719",
+        "image":"http://",
+        "color":"black",
+        "Company":"hp"
+
+    },
+    {
+        "id":60,
+        "name":"ASUS ROG Strix GA35 3rd Gen AMD 8 core Ryzen 7 3800X Gaming Desktop",
+        "category":"Computer accessories",
+        "category_id":"5",
+        "rating":"4.5",
+        "price":"2,23,999",
+        "image":"http://",
+        "color":"black",
+        "Company":"ASUS"
+
+    },
+    "moblie",
+    {
+        "id":61,
+        "name":"S20 FE 5G",
+        "category":"mobile",
+        "category_id":"6",
+        "rating":"4.3",
+        "price":"56,990",
+        "image":"https",
+        "color":"black",
+        "Company":"samsung"
+
+    },
+        {
+            "id":62,
+            "name":"iphone 12pro",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.6",
+            "price":"1,15,900",
+            "image":"http://",
+            "color":"black",
+            "Company":"Apple"
+    
+        },
+        {
+            "id":63,
+            "name":"M20",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.0",
+            "price":"12000",
+            "image":"http://",
+            "color":"blue",
+            "Company":"samsung"
+    
+        },
+        {
+            "id":64,
+            "name":"g9power",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.4",
+            "price":"12000",
+            "image":"http://",
+            "color":"silver",
+            "Company":"Motorala"
+    
+        },
+        {
+            "id":65,
+            "name":"M51",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.5",
+            "price":"22000",
+            "image":"http://",
+            "color":"Navy_blue",
+            "Company":"samsung"
+    
+        },
+        {
+            "id":66,
+            "name":"Narzo",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.1",
+            "price":"14000",
+            "image":"http://",
+            "color":"red",
+            "Company":"Realme"
+    
+        },
+        {
+            "id":67,
+            "name":"iphone 11",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.3",
+            "price":"68,999",
+            "image":"http://",
+            "color":"yellow",
+            "Company":"Apple"
+    
+        },
+        {
+            "id":68,
+            "name":"iphone SE",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"3.9",
+            "price":"32,999",
+            "image":"http://",
+            "color":"black",
+            "Company":"Apple"
+    
+        },
+        {
+            "id":69,
+            "name":"Reno6",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.0",
+            "price":"29,990",
+            "image":"http://",
+            "color":"white",
+            "Company":"oppo"
+    
+        },
+        {
+            "id":70,
+            "name":"V20",
+            "category":"mobile",
+            "category_id":"6",
+            "rating":"4.2",
+            "price":"24,989",
+            "image":"http://",
+            "color":"blue",
+            "Company":"Vivo"
+    
+        },
+    
+    
+
+    "electronics",
+
+    {
+        "id":71,
+        "name":"boAt Airdopes 121v2 TWS Earbuds with Bluetooth V5.0",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"999",
+        "image":"http://",
+        "color":"black",
+        "Company":"boAt"
+
+    },
+    {
+        "id":72,
+        "name":"Apple AirPods Pro",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"18,999",
+        "image":"http://",
+        "color":"white",
+        "Company":"Apple "
+
+    },
+    {
+        "id":73,
+        "name":"boAt Rockerz 255 in-Ear Earphones",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"18,999",
+        "image":"http://",
+        "color":"black",
+        "Company":"boAt Rockerz "
+
+    },
+    {
+        "id":74,
+        "name":"2021 Apple iPad Pro with Apple M1 chip",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"1,30,999",
+        "image":"http://",
+        "color":"white",
+        "Company":"Apple "
+
+    },
+    {
+        "id":75,
+        "name":"boAt Bassheads 242 in Ear Wired Earphones with Mic(Active Black)",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"399",
+        "image":"http://",
+        "color":"white",
+        "Company":"boAt Bassheads 242"
+
+    },
+    {
+        "id":76,
+        "name":"Boya BYM1 Omnidirectional Lavalier Condenser Microphone with 20ft Audio Cable (Black)",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"899",
+        "image":"http://",
+        "color":"white",
+        "Company":"Boya BYM1"
+
+    },
+    {
+        "id":77,
+        "name":"2020 Apple iPad Air with A14 Space Grey (4th Generation)",
+        "category":"electronics ",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"48,899",
+        "image":"http://",
+        "color":"gray",
+        "Company":"apple"
+
+    },
+    {
+        "id":78,
+        "name":"Maono AU-PM420 USB Podcast Condenser",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"3,899",
+        "image":"http://",
+        "color":"black",
+        "Company":"Maono"
+
+    },
+    {
+        "id":79,
+        "name":"MI Wi-Fi 1080p Full HD 360° Viewing Area Smart Security Camera",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"2,899",
+        "image":"http://",
+        "color":"white",
+        "Company":"mi"
+
+    },
+    {
+        "id":80,
+        "name":"Sennheiser HD 25  ",
+        "category":"electronics",
+        "category_id":"7",
+        "rating":"4.5",
+        "price":"8,499",
+        "image":"http://",
+        "color":"Blue",
+        "Company":"Sennheiser"
+
+    },
+    "home_appliances",
+        {
+            "id":81,
+            "name":"LED smart android TV",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.3",
+            "price":"28,999",
+            "image":"http://",
+            "size":"43 inch",
+            "Company":"MI"
+    
+        },
+        {
+            "id":82,
+            "name":"LED Full HD smart TV",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.3",
+            "price":"31,999",
+            "image":"http://",
+            "size":"43 inch",
+            "Company":"Samsung"
+    
+        },
+        {
+            "id":83,
+            "name":"Fully Automatic Front Load",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.3",
+            "price":"35,999",
+            "image":"http://",
+            "capacity":"7kg",
+            "Company":"LG"
+    
+        },
+        {
+            "id":84,
+            "name":"Aqua energy front load",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.5",
+            "price":"21,799",
+            "image":"http://",
+            "capacity":"6kg",
+            "Company":"IFB"
+    
+        },
+        {
+            "id":85,
+            "name":"superbriz blade Cieling fan",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.4",
+            "price":"1,499",
+            "image":"http://",
+            "color":"brown",
+            "Company":"Crompton"
+    
+        },
+        {
+            "id":86,
+            "name":"IInstant water Geyser",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.2",
+            "price":"2,999",
+            "image":"http://",
+            "Capacity":"3L",
+            "Company":"Bajaj"
+    
+        },
+        {
+            "id":87,
+            "name":"Low-cal Fry covention Oven",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.2",
+            "price":"6,499",
+            "image":"http://",
+            "CCapacity":"23 L",
+            "Company":"MarQ"
+    
+        },
+        {
+            "id":88,
+            "name":"Desert Air Cooler",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.1",
+            "price":"10,999",
+            "image":"http://",
+            "Capacity":"55L",
+            "Company":"duke"
+    
+        },
+        {
+            "id":89,
+            "name":"Shock proof water heater",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.1",
+            "price":"469",
+            "image":"http://",
+            "color":"blue",
+            "Company":"Nova"
+    
+        },
+        {
+            "id":90,
+            "name":"speed 3 blade cieling fan",
+            "category":"Home_Appliances",
+            "category_id":"8",
+            "rating":"4.1",
+            "price":"1,231",
+            "image":"http://",
+            "color":"black",
+            "Company":"longway"
+    
+        },
+    "kitchen appliances",
+    {
+        "id":91,
+        "name":"ZENUSS® 7-Speed Electric Hand Mixer and Blenders with Chrome Beater and ",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"499",
+        "image":"http://",
+        "color":"White",
+        "Company":"ZENUSS"
+
+    },
+    {
+        "id":92,
+        "name":"Havells Aqua Plus 1.2 litre Double Wall Kettle ",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"1,499",
+        "image":"http://",
+        "color":"black",
+        "Company":"Havells"
+
+    },
+    {
+        "id":93,
+        "name":"Havells Aqua Plus 1.2 litre Double Wall Kettle ",
+        "category":"kitchen appliances ",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"1,099",
+        "image":"http://",
+        "color":"white",
+        "Company":"KENT "
+
+    },
+    {
+        "id":94,
+        "name":"mazonBasics Stainless Steel Digital Kitchen Scale with LCD Display  ",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"1,099",
+        "image":"http://",
+        "color":"gray",
+        "Company":"AmazonBasics "
+
+    },
+    {
+        "id":95,
+        "name":"Luminous Vento Deluxe 8 Inch Blade Size Exhaust Fan for Kitchen  ",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"1,073",
+        "image":"http://",
+        "color":"gray",
+        "Company":"Vento Deluxe  "
+
+    },
+    {
+        "id":96,
+        "name":"Philips HL7756/00 Mixer Grinder",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"3,290",
+        "image":"http://",
+        "color":"black",
+        "Company":"Philips"
+
+    },
+    {
+        "id":97,
+        "name":"Morphy Richards 45 Ltr 45RCSS LuxeChef Oven Toaster Griller, with Convection and Rotisserie",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"3,290",
+        "image":"http://",
+        "color":"black",
+        "Company":"Morphy Richards"
+
+    },
+    {
+        "id":98,
+        "name":"Aquaguard Aura RO+UV+MTDS water purifier with Active Copper & Mineral Guard Technology",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"15,290",
+        "image":"http://",
+        "color":"black",
+        "Company":"Aquaguard"
+
+    },
+    {
+        "id":99,
+        "name":"Havells Induction Cooktop TC 18 1800 watt (Black) (GHCICDQK180)",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"3,290",
+        "image":"http://",
+        "color":"black",
+        "Company":"Havells"
+
+    },
+    {
+        "id":100,
+        "name":"Havells Induction Cooktop TC 18 1800 watt (Black) (GHCICDQK180)",
+        "category":"kitchen appliances",
+        "category_id":"9",
+        "rating":"4.5",
+        "price":"2,590",
+        "image":"http://",
+        "color":"black",
+        "Company":"Inalsa Spruce"
+
+    },      
+    "Toys& games",
+        {
+            "id":101,
+            "name":"Chess board game",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.2",
+            "price":"151",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"chess Junior"
+    
+        },
+        {
+            "id":102,
+            "name":"business game",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.2",
+            "price":"199",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Business"
+    
+        },
+        {
+            "id":103,
+            "name":"Monopoly game",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.4",
+            "price":"1999",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Hasbro"
+    
+        },
+        {
+            "id":104,
+            "name":"Marvel crew Gaming",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.2",
+            "price":"683",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Hasbro"
+    
+        },
+        {
+            "id":105,
+            "name":"frozen 4 board game",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.3",
+            "price":"275",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Miss&Chief"
+    
+        },{
+            "id":106,
+            "name":"UNO original card game",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.2",
+            "price":"94",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Mattel"
+    
+        },
+        {
+            "id":107,
+            "name":"36 Tiles kids game",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"3.9",
+            "price":"180",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Sagar Enterprices"
+    
+        },
+        {
+            "id":108,
+            "name":"3*3*3 speed cube",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.2",
+            "price":"185",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"TamBoora"
+    
+        },
+        {
+            "id":109,
+            "name":"Crossword board game",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.4",
+            "price":"617",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Mattel"
+    
+        },
+        {
+            "id":110,
+            "name":"board game accessories",
+            "category":"Toys & games",
+            "category_id":"10",
+            "rating":"4.3",
+            "price":"339",
+            "image":"http://",
+            "Pack":"1",
+            "Company":"Revive"
+    
+        }
+
+
+        
+
+        
+]
